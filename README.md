@@ -6,7 +6,7 @@ This project consists of two main components:
    This is the ASP.NET Core MVC web app that interacts with the Web API to perform CRUD (Create, Read, Update, Delete) operations.
 
 2. **CRUDWebAPI**:  
-   This is the ASP.NET Core Web API that provides endpoints to manage employee data.
+   This is the ASP.NET Core Web API that provides endpoints to manage employee data. I have created my Web API with Entity Framework Core to connect to SQL Server Management System (SSMS).
 
 ## CRUDWebAPI Endpoints
 
